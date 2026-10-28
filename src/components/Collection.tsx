@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { PRODUCTS, Product } from '../data';
+import { PRODUCTS } from '../data';
+import type { Product } from '../data';
 import { Plus, Check } from 'lucide-react';
 
 interface CollectionProps {
