@@ -1,5 +1,10 @@
 {
   "format": "makable-site",
   "version": 2,
-  "projectId": "7e01c676-4a85-4bce-9af4-451a23b27097"
+  "projectId": "7e01c676-4a85-4bce-9af4-451a23b27097",
+  "publish": {
+    "target": "github-pages",
+    "projectName": null,
+    "siteUrl": "https://bhaveshupadhyay629.github.io/loom-lane-1028/"
+  }
 }
