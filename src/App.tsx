@@ -6,7 +6,7 @@ import { About } from './components/About';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { ShoppingBag, X, Check, Trash2 } from 'lucide-react';
-import { Product } from './data';
+import type { Product } from './data';
 
 interface CartItem {
   product: Product;
